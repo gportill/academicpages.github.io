@@ -7,7 +7,3 @@ venue: 'EMNLP2019'
 paperurl: 'https://gwenythjpw.com/assets/pdf/reporting_the_unreported.pdf'
 citation: 'Mostafazadeh Davani, A., Yeh, L., Atari, M., Kennedy, B., Portillo-Wightman, G., Gonzalez, E., Delong, N., Bhatia, R., Mirinjian, A., Xiang, R. &amp; Dehghani, M. (2019). Reporting the Unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes. In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), Hong Kong, China.'
 ---
-
-<a href='https://gwenythjpw.com/assets/pdf/reporting_the_unreported.pdf'>Download paper here</a>
-
-Recommended citation: Mostafazadeh Davani, A., Yeh, L., Atari, M., Kennedy, B., Portillo-Wightman, G., Gonzalez, E., Delong, N., Bhatia, R., Mirinjian, A., Xiang, R. & Dehghani, M. (2019). Reporting the Unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes. In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), Hong Kong, China.
