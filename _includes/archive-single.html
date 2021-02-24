@@ -27,7 +27,7 @@
     {% endif %}
 
 <!--     <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2> -->
-    <h2 itemprop="headline">{{ title }} <a href=" {{ post.paperurl }} "><u>[PDF]</u></a></h2>
+    <h2 itemprop="headline">{{ title }} <a href=" {{ post.paperurl }} ">[PDF]</a></h2>
 <!--   stuff commented out is for making the title into a link that will lead to a new page, specifically for that paper   -->
 <!--       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -72,11 +72,7 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %} -->
     
-<!--     {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %} -->
+    <p>{{ post.citation }} </p>
 
   </article>
 </div>
